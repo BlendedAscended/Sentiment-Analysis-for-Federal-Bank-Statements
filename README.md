@@ -1,4 +1,4 @@
-# Sentiment Analysis for FOMC Statements
+# Sentiment Analysis for Federal Open Market Statements
 
 ## Overview
 
