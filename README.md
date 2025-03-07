@@ -34,19 +34,19 @@ Open the Code.ipynb notebook in VS Code or Jupyter Notebook to run and explore t
 
 ## Visualizations
 
-    Below are some of the key visualizations generated in the project. Click on the images to view them in full size:
+ Below are some of the key visualizations generated in the project. Click on the images to view them in full size:
 
   Moving Average of Sentiment & Net Sentiment:
 
-    [![Moving Average Plot](plots/moving_average.png)](plots/moving_average.png)
+ [![Moving Average Plot](plots/moving_average.png)](plots/moving_average.png)
 
   Fed Funds Rate End Value & Sentiment MA:
 
-    [![Fed Funds Rate Plot](plots/fed_funds.png)](plots/fed_funds.png)
+ [![Fed Funds Rate Plot](plots/fed_funds.png)](plots/fed_funds.png)
 
   Word Count Per Statement Over Time:
 
-    [![Word Count Plot](plots/word_count.png)](plots/word_count.png)
+ [![Word Count Plot](plots/word_count.png)](plots/word_count.png)
 
 ## Project Insights
   Time Savings:
@@ -62,6 +62,6 @@ Open the Code.ipynb notebook in VS Code or Jupyter Notebook to run and explore t
     For an interactive exploration of the data, visit our Tableau Public Dashboard or view the live interactive version on our Personal Portfolio Website.
 
 ## Conclusion
-    This project demonstrates an end-to-end approach to automating sentiment analysis of FOMC statements, integrating financial market data, and producing actionable visualizations. It showcases skills in data extraction, NLP, time series analysis, and advanced visualization techniques.
+ This project demonstrates an end-to-end approach to automating sentiment analysis of FOMC statements, integrating financial market data, and producing actionable visualizations. It showcases skills in data extraction, NLP, time series analysis, and advanced visualization techniques.
 
 
